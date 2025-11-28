@@ -1,5 +1,7 @@
 # JAMP Core Stable Version — The Zero-Cost Fullstack Revolution
 
+![alt text](https://github.com/melonix2871-maker/jamp-core-stable/blob/main/jamp-logo.png?raw=true)
+
 **JAMP (Javascript Asyncronous Micro Pantheon)** is the world's first **completely serverless, decentralized fullstack framework** that lets anyone build production-grade web apps using **only a single HTML file** and **free static hosting**. No servers, no databases, no bills – just pure browser power.
 
 Built on your 28-page blueprint, JAMP turns users into nodes, puppets into workers, and one file into a luxury cloud. It's for indie hackers, small businesses, and innovators in emerging markets who can't afford $500/month stacks.
