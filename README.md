@@ -5,7 +5,7 @@
 
 ### What is JAMP?
 
-JAMP (Just Another Magic Platform) is the world’s first **completely serverless, decentralized fullstack framework** that lets anyone build production-grade web apps using **only a single HTML file** and **free static hosting**.
+JAMP (JavaScript Asynchronous Micro PHP) is the world’s first **completely serverless, decentralized fullstack framework** that lets anyone build production-grade web apps using **only a single HTML file** and **free static hosting**.
 
 *   **24/7 backend** made from your users’ browsers + free headless puppets
 *   **Encrypted JSON database** that lives forever (auto-save, auto-backup, auto-replication)
