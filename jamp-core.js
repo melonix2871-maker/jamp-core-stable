@@ -1,4 +1,4 @@
-// jamp-core.js — FINAL DYNAMIC VERSION (uses GitHub Secrets)
+// jamp-core.js — STABLE VERSION 
 (async () => {
     const nodes = [
         process.env.NODE1,
@@ -6,10 +6,10 @@
         process.env.NODE3,
         process.env.NODE4,
         process.env.NODE5
-    ].filter(Boolean); // Remove any empty
+    ].filter(Boolean); // Dynamic nodes
 
     if (nodes.length === 0) {
-        console.error("No nodes configured! Add NODE1-NODE5 in GitHub Secrets");
+        console.error("No nodes configured!");
         return;
     }
 
