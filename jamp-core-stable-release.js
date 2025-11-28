@@ -1,11 +1,11 @@
 // jamp-core.js — STABLE VERSION 
 (async () => {
     const nodes = [
-        process.env.NODE1,
-        process.env.NODE2,
-        process.env.NODE3,
-        process.env.NODE4,
-        process.env.NODE5
+        "https://meogit3.github.io/jamp-node1",
+        "https://sensational-flan-f91a18.netlify.app",
+        "https://jampcorenodev3.vercel.app",
+        "https://meoasisgit1.github.io/jampcorenodefive",
+        "https://meogit2.github.io/jampnode3"
     ].filter(Boolean); // Dynamic nodes
 
     if (nodes.length === 0) {
